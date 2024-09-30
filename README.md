@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m Gongbo Zhang, a third-year undergraduate student from School of Computer Science and Technology, HUST.
+- 🔭 I’m Gongbo Zhang, a fourth-year undergraduate student from School of Computer Science and Technology, HUST.
 - 🌱 I’m currently doing research about AI4Science at PKU-YUAN-Lab @ PKU as an intern.
 - 🙌 I did research about Protein-Ligand Docking at JHL @ HUST from 2023.10-2024.06.
 - 📫 How to reach me:
