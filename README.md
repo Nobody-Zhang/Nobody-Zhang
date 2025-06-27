@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Gongbo Zhang**, a first-year master's student (incoming) at the **School of Information Engineering, Peking University Shenzhen Graduate School**, and a member of **PKU-YuanGroup**. My research focuses on **AI for Science**, especially generative modeling for molecules, materials, and proteins.
+I'm **Gongbo Zhang**, a first-year master's student (incoming) at the **School of Electronic and Computer Engineering, Peking University**, and a member of **PKU-YuanGroup**. My research focuses on **AI for Science**, especially generative modeling for molecules, materials, and proteins.
 
 [![PKU-YuanGroup Badge](https://img.shields.io/badge/🎓-PKU%20YuanGroup%20-red)](https://github.com/PKU-YuanGroup/)
 [![AI4Science Badge](https://img.shields.io/badge/🧬-MSR%20AI%20for%20Science-blueviolet)](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/)
