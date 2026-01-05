@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Gongbo Zhang**, a first-year master's student (incoming) at the **School of Electronic and Computer Engineering, Peking University**, and a member of **PKU-YuanGroup**. My research focuses on **AI for Science**, especially generative modeling for molecules, materials, and proteins.
+I'm **Gongbo Zhang**, a first-year master's student at the **School of Electronic and Computer Engineering, Peking University**, and a member of **PKU-YuanGroup**. My research focuses on **AI for Science**, especially generative modeling for molecules, materials, and proteins.
 
 [![PKU-YuanGroup Badge](https://img.shields.io/badge/🎓-PKU%20YuanGroup%20-red)](https://github.com/PKU-YuanGroup/)
 [![AI4Science Badge](https://img.shields.io/badge/🧬-MSR%20AI%20for%20Science-blueviolet)](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/)
@@ -16,9 +16,3 @@ I'm **Gongbo Zhang**, a first-year master's student (incoming) at the **School o
 ### 📫 Get in touch
 
 - Email: [minecraftzhanggongbo@outlook.com](mailto:minecraftzhanggongbo@outlook.com)
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=Nobody-Zhang&count_private=true&show_icons=true&theme=transparent)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nobody-Zhang&layout=compact&hide=javascript,html,c,css,scss,typescript,xml)](https://github.com/anuraghazra/github-readme-stats)
